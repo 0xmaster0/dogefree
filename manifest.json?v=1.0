@@ -1,0 +1,15 @@
+{
+  "start_url": "/",
+  "name": "Dogechain",
+  "short_name": "Dogechain",
+  "display": "standalone",
+  "background_color": "#1f2226",
+  "theme_color": "#1f2226",
+  "icons": [
+    {
+      "src": "./imgs/coins/dc@3x.png",
+      "type": "image/png",
+      "sizes": "140x140"
+    }
+  ]
+}
